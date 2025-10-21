@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1761066206 source:c:\nsu\tmp\day\main.c
+	<stdio.h>
+	<stdbool.h>
+
